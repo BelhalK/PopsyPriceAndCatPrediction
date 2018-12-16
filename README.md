@@ -18,6 +18,6 @@ later and Keras.
 
 
 ## Content:
-1. DonaloadTrainAndTest: Folder with the scripts allowing you to download images using BigQuery API and order them in labelled folder (for training purposes)
+1. DownloadTrainAndTest: Download data using BigQuery, Split into labels, Train the VGGNet and Test.
 
-2. Predict_TrainedModel: Folder with the CNN
+2. Predict_TrainedModel: Scripts to Predict from a pre-trained model.
