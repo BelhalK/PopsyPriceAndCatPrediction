@@ -1,4 +1,4 @@
-Popsy(https://popsy.app/) - Prediction of Prices and Categories of a product listed.
+Popsy(https://popsy.app/) - Prediction of Prices and Categories of a listed product.
 ====================================================================================
 
 Code in this directory focuses on how to use create and download your training and testing dataset. 
