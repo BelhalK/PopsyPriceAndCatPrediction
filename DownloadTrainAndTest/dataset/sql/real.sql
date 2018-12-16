@@ -1,0 +1,5 @@
+SELECT price.amount as price,price.currency as currency, category.name, images.filename.text as url, 
+FROM announce.annonce 
+WHERE
+	category.name
+IN ("55379c4d531b3b4c048b456b","559150b3531b3b92438b4574","559150a9531b3baa628b4572","559150bf531b3b093e8b4574","559150cb531b3b93438b4578","559150d7531b3b013b8b4575","55915109531b3baa628b4573","5591512a531b3b92438b4575","55915138531b3b093e8b4575","55915147531b3b93438b4579")
